@@ -1,6 +1,8 @@
 ## 💫 About Me:
 Currently studying software engineering at 42 Heilbronn in Germany.<br>Working in C/C++ and looking forward to expanding my knowledge in other languages.<br>I am passionate about game development and blockchain technology.
 
+## 📧 E-mail:
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josip.samardzic2@gmail.com)
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stfu.josip) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/josip-samardzic-3a905824b/)) 
