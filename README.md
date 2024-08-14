@@ -10,6 +10,7 @@ Currently studying software engineering at 42 Heilbronn in Germany.<br>Working i
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Josip2504&count_private=true&show_icons=true&theme=shades-of-purple&hide_rank=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Josip2504&theme=shades-of-purple&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Josip2504&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
