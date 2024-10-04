@@ -1,11 +1,11 @@
 ## 💫 About Me:
-Currently studying software engineering at 42 Heilbronn in Germany.<br>Working in C/C++ and looking forward to expanding my knowledge in other languages.<br>I am passionate about game development and blockchain technology.
+Currently studying software engineering at 42 Heilbronn in Germany.<br>Working in C/C++ and looking forward to expanding my knowledge in other languages.<br>I am passionate about blockchain technology and AI automation.
 
 ## 📧 E-mail:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josip.samardzic2@gmail.com)
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stfu.josip) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/josip-samardzic-3a905824b/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/josip-samardzic-3a905824b/)) 
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
