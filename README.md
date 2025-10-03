@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Currently studying software engineering at 42 Heilbronn in Germany.<br>Working in C/C++ and expanding my knowledge in other languages.<br>I am passionate about low-level programming and backend development.
+Currently studying software engineering at 42 Heilbronn in Germany.<br>Working in C/C++ and expanding my knowledge in other languages.<br>I am passionate about low-level programming, backend development and intrested in embedded systems.
 
 ## 📧 E-mail:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josip.samardzic2@gmail.com)
